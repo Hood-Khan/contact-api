@@ -149,3 +149,4 @@ router.get('/checkEmail/:email',(req,res)=>{
 })
 
 module.exports = router;
+
